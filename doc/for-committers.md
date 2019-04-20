@@ -49,7 +49,7 @@ As Gabriel explains in [this comment](https://github.com/LightTable/LightTable/i
 
 ### Code Conventions
 
-* See the LightTable Style Guide.
+* See the LightTable [Style Guide](../doc/style-guide.md).
 
 ### Code Reading
 
